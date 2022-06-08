@@ -1,0 +1,1 @@
+export const deleteQuery = `DELETE FROM Persons WHERE firstname = 'Tom';`
